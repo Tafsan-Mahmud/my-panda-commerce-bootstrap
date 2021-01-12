@@ -1,0 +1,30 @@
+.panda-card{
+    border:0 ;
+     
+}
+.color-change{
+    background-color: rgb(255, 255, 255);
+}
+.panda-sizing{
+    margin-top:90px;
+    margin-bottom:90px;
+    
+}
+.container-2{
+    width: 87%;
+   
+}
+.border-sizing{
+   
+    border-radius: 15px;
+}
+ 
+.categories img {
+    width: 130px;
+}
+.changeing-colour-1{
+    background-color:rgb(255, 0, 247)   ;
+}
+.changeing-colour-2{
+    background-color:rgb(23, 23, 255) ;
+}
